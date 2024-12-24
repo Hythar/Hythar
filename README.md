@@ -1,4 +1,4 @@
-# 👨‍💻 Abdirizaq Hathar | Full Stack Developer & AI Enthusiast
+# 👨‍💻 Hythar | Full Stack Developer & AI Enthusiast
 
 > Building the future, one line of code at a time.
 
