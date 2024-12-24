@@ -27,14 +27,14 @@ const skills = {
 - 🚀 Cloud Architecture
 - 📱 Mobile Development
 - 🔄 DevOps & CI/CD
-
+<!--
 ## 📈 Performance Metrics
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hythar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hythar&theme=radical&hide_border=false)
 
-</div>
+</div> -->
 
 ## 🌟 Project Highlights
 - 🏪 **Smart POS System**: Revolutionary point-of-sale solution with AI-driven inventory management
@@ -43,7 +43,7 @@ const skills = {
 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdirizaq-hathar)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@_hythar)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_hythar)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbdiBary)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Hythar)
 
