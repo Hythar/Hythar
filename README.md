@@ -1,5 +1,6 @@
-# 👨‍💻 ![lg-brm](https://github.com/user-attachments/assets/05218e03-9525-4e53-8923-b822f89882c6)
- Hythar | Full Stack Developer & AI Enthusiast
+# 👨‍💻 Hythar | Full Stack Developer & AI Enthusiast
+
+![lg-brm](https://github.com/user-attachments/assets/b513db1c-bc68-4c45-8b3d-1d6e76b7fbf3)
 
 > Building the future, one line of code at a time.
 
