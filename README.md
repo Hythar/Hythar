@@ -1,7 +1,5 @@
 # 👨‍💻 Hythar | Full Stack Developer & AI Enthusiast
 
-![lg-brm](https://github.com/user-attachments/assets/b513db1c-bc68-4c45-8b3d-1d6e76b7fbf3)
-
 > Building the future, one line of code at a time.
 
 ## 🚀 Current Endeavors
