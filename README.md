@@ -1,4 +1,4 @@
-# 👨‍💻 Hythar | Full Stack Developer & AI Enthusiast
+# 👨‍💻 Hythar | Full Stack Developer 
 
 > Building the future, one line of code at a time.
 
